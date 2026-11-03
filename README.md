@@ -2,6 +2,8 @@
 
 Ecualizador de audio y mezclador de volumen para Linux. eqLinux crea una salida de audio virtual compatible con PulseAudio/PipeWire, procesa el sonido y lo envía a la salida que elijas.
 
+<img width="405" height="556" alt="image" src="https://github.com/user-attachments/assets/2a392734-ca83-4158-b9aa-04333a732575" />
+
 ## Funciones
 
 - Ecualización global en modos Básico, Avanzado y Experto.
